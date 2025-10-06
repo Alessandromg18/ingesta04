@@ -1,0 +1,6 @@
+pandas==2.0.3
+sqlalchemy==2.0.18
+psycopg2==2.9.6
+boto3==1.26.7
+cryptography==39.0.1
+python-dotenv==1.0.0
